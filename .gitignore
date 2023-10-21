@@ -4,3 +4,4 @@ ngm.*
 sandbox.*
 _skbuild/
 .vscode/
+*.code-workspace
