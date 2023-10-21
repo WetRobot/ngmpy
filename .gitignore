@@ -1,0 +1,6 @@
+__pycache__/
+ngm.*
+.venv/
+sandbox.*
+_skbuild/
+.vscode/
