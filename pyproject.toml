@@ -1,0 +1,10 @@
+[build-system]
+requires = ["scikit-build-core", "pybind11"]
+build-backend = "scikit_build_core.build"
+
+[tool.scikit-build]
+cmake.source-dir = "src"
+
+[project]
+name = "ngmpy"
+version = "0.0.1"
